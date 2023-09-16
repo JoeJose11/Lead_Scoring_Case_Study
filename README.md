@@ -1,0 +1,2 @@
+# Lead_Scoring_Case_Study
+ Conducted an in-depth case study for X Education, an educational institution, with the goal of increasing lead conversion rates from 30% to 80%. Developed a Logistic Regression model to assign lead scores based on lead metadata, enabling precise evaluation of conversion likelihood. This strategy optimized the sales process by prioritizing high-conversion probability leads, leading to improved overall sales performance.
